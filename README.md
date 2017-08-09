@@ -33,7 +33,7 @@ Install the Indonesian language pack via composer is never easier.
 **Install Indonesian pack**:
 
 ```
-composer require mageplaza/magento-2-indonesian-language-pack
+composer require mageplaza/magento-2-indonesian-language-pack:dev-master
 php bin/magento setup:static-content:deploy id_ID
 php bin/magento cache:clean
 php bin/magento cache:flush
@@ -44,7 +44,7 @@ php bin/magento cache:flush
 **Update  Indonesian pack**:
 
 ```
-composer update mageplaza/magento-2-indonesian-language-pack
+composer update mageplaza/magento-2-indonesian-language-pack:dev-master
 php bin/magento setup:static-content:deploy id_ID
 php bin/magento indexer:reindex
 php bin/magento cache:clean
