@@ -427,7 +427,7 @@ Debug,Debugging,module,Magento_Authorizenet
 "Minimum Order Total","Minimum Order Total",module,Magento_Authorizenet
 "Maximum Order Total","Maximum Order Total",module,Magento_Authorizenet
 "Sort Order","Sort Order",module,Magento_Authorizenet
-"Invalid Form Key. Please refresh the page.","Form Key tidak valid. Silakan segarkan halaman.",module,Magento_Backend
+"Invalid Form Key. Please refresh the page.","Bentuk Kunci Tidak Sah. Harap segarkan halaman.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Anda memasukkan Kunci Rahasia yang tidak benar. Harap segarkan halaman.",module,Magento_Backend
 "Cache Storage Management","Manajemen Penyimpanan Cache",module,Magento_Backend
 "Flush Magento Cache","Flush Magento Cache",module,Magento_Backend
@@ -546,7 +546,7 @@ Home,Rumah,module,Magento_Backend
 Reset,"Setel ulang",module,Magento_Backend
 "Are you sure you want to do this?","Apakah Anda yakin ingin melakukan ini?",module,Magento_Backend
 "Add New Image","Tambahkan Gambar Baru",module,Magento_Backend
-"Export block for grid %1 is not defined","Blok ekspor untuk Blok ekspor untuk grid% 1 tidak ditentukan grid %1 tidak ditentukan",module,Magento_Backend
+"Export block for grid %1 is not defined","Ekspor blok untuk jaringan %1 tidak didefinisikan",module,Magento_Backend
 "Reset Filter","Setel ulang saringan",module,Magento_Backend
 Search,Pencarian,module,Magento_Backend
 Any,"Apa saja",module,Magento_Backend
@@ -572,7 +572,7 @@ Submit,Menyerahkan,module,Magento_Backend
 "The image cache was cleaned.","Cache gambar sudah dibersihkan.",module,Magento_Backend
 "An error occurred while clearing the image cache.","Terjadi kesalahan saat membersihkan cache gambar.",module,Magento_Backend
 "The JavaScript/CSS cache has been cleaned.","Cache JavaScript / CSS telah dibersihkan.",module,Magento_Backend
-"An error occurred while clearing the JavaScript/CSS cache.","Terjadi kesalahan saat menghapus cache JavaScript / CSS.",module,Magento_Backend
+"An error occurred while clearing the JavaScript/CSS cache.","Terjadi kesalahan saat menghapus cache JavaScript/CSS.",module,Magento_Backend
 "The static files cache has been cleaned.","Cache file statis telah dibersihkan.",module,Magento_Backend
 "You flushed the cache storage.","Anda memerah penyimpanan cache.",module,Magento_Backend
 "The Magento cache storage has been flushed.","Penyimpanan cache Magento telah memerah.",module,Magento_Backend
@@ -580,7 +580,7 @@ Submit,Menyerahkan,module,Magento_Backend
 "You can't change status of cache type(s) in production mode","Anda tidak dapat mengubah status tipe cache dalam mode produksi",module,Magento_Backend
 "%1 cache type(s) disabled.","% 1 jenis cache dinonaktifkan.",module,Magento_Backend
 "An error occurred while disabling cache.","Terjadi kesalahan saat menonaktifkan cache.",module,Magento_Backend
-"%1 cache type(s) enabled.","% 1 tipe cache diaktifkan.",module,Magento_Backend
+"%1 cache type(s) enabled.","%1 jenis cache(s) diaktifkan.",module,Magento_Backend
 "An error occurred while enabling cache.","Terjadi kesalahan saat mengaktifkan cache.",module,Magento_Backend
 "%1 cache type(s) refreshed.","% 1 jenis cache disegarkan.",module,Magento_Backend
 "An error occurred while refreshing cache.","Terjadi kesalahan saat menyegarkan cache.",module,Magento_Backend
@@ -606,7 +606,7 @@ System,Sistem,module,Magento_Backend
 "Manage Stores","Kelola Toko",module,Magento_Backend
 "The database was backed up.","Database telah dicadangkan.",module,Magento_Backend
 "We can't create a backup right now. Please try again later.","Kami tidak bisa membuat cadangan sekarang. Silahkan coba lagi nanti.",module,Magento_Backend
-"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Menghapus% 1 tidak akan menghapus informasi yang terkait dengan% 1 (misalnya kategori, produk, dll.), Namun% 1 tidak dapat dipulihkan. Disarankan agar Anda membuat backup database sebelum menghapus% 1.",module,Magento_Backend
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Menghapus %1 tidak akan menghapus informasi yang terkait dengan %1 (misalnya, kategori, produk, dll.), tapi %1 tidak akan dapat dikembalikan. Disarankan agar anda membuat database cadangan sebelum menghapus %1.",module,Magento_Backend
 "Something went wrong. Please try again.","Ada yang salah. Silahkan coba lagi.",module,Magento_Backend
 "This store cannot be deleted.","Toko ini tidak bisa dihapus.",module,Magento_Backend
 "You deleted the store.","Anda menghapus toko.",module,Magento_Backend
@@ -619,14 +619,14 @@ System,Sistem,module,Magento_Backend
 "You deleted the website.","Anda menghapus situs web.",module,Magento_Backend
 "Unable to delete the website. Please try again later.","Tidak dapat menghapus situs web. Silakan coba lagi nanti.",module,Magento_Backend
 "The website does not exist.","Situs itu tidak ada.",module,Magento_Backend
-"Before modifying the website code please make sure it is not used in index.php.","Sebelum memodifikasi kode website silahkan pastikan tidak digunakan di index.php.",module,Magento_Backend
+"Before modifying the website code please make sure it is not used in index.php.","Sebelum memodifikasi kode situs web pastikan tidak digunakan dalam index.php.",module,Magento_Backend
 "The store does not exist","Toko itu tidak ada",module,Magento_Backend
 "Store view doesn't exist","Tampilan toko tidak ada",module,Magento_Backend
 "Before modifying the store view code please make sure it is not used in index.php.","Sebelum memodifikasi kode tampilan toko pastikan itu tidak digunakan di index.php.",module,Magento_Backend
 New,Baru,module,Magento_Backend
 "All Stores","Semua toko",module,Magento_Backend
 "You saved the website.","Anda menyimpan situs web.",module,Magento_Backend
-"The default store cannot be disabled","Toko default tidak dapat dinonaktifkan",module,Magento_Backend
+"The default store cannot be disabled","Toko standar tidak dapat dinonaktifkan",module,Magento_Backend
 "You saved the store view.","Anda menyimpan tampilan toko.",module,Magento_Backend
 "An inactive store view cannot be saved as default store view","Tampilan toko yang tidak aktif tidak dapat disimpan sebagai tampilan toko standar",module,Magento_Backend
 "You saved the store.","Anda menyimpan toko.",module,Magento_Backend
@@ -647,7 +647,7 @@ Order,Memesan,module,Magento_Backend
 "Sorry, you need permissions to view this content.","Maaf, Anda memerlukan izin untuk melihat konten ini.",module,Magento_Backend
 "Next steps","Langkah berikutnya",module,Magento_Backend
 "If you think this is an error, try signing out and signing in again.","Jika menurut anda ini adalah kesalahan, coba keluar dan masuk lagi.",module,Magento_Backend
-"Contact a system administrator or store owner to gain permissions.","Hubungi administrator sistem atau pemilik toko untuk mendapatkan izin.",module,Magento_Backend
+"Contact a system administrator or store owner to gain permissions.","Hubungi pengelola sistem atau pemilik toko untuk mendapatkan izin.",module,Magento_Backend
 "Return to","Kembali ke",module,Magento_Backend
 "previous page","halaman sebelumnya",module,Magento_Backend
 "Welcome, please sign in","Selamat datang, silahkan masuk",module,Magento_Backend
@@ -658,7 +658,7 @@ password,"kata Sandi",module,Magento_Backend
 "Sign in",Masuk,module,Magento_Backend
 "Select Range:","Pilih Rentang:",module,Magento_Backend
 "No Data Found","Tidak ada data yang ditemukan",module,Magento_Backend
-"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Bagan dinonaktifkan. Untuk mengaktifkan bagan, klik <a href=""%1""> di sini </a>.",module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Grafik dinonaktifkan. Untuk mengaktifkan grafik, klik <a href=""%1"">di sini</a>.",module,Magento_Backend
 "Last Orders","Pesanan terakhir",module,Magento_Backend
 "Last Search Terms","Terakhir Cari Syarat",module,Magento_Backend
 "Top Search Terms","Istilah Pencarian Teratas",module,Magento_Backend
@@ -694,7 +694,7 @@ Minute,Menit,module,Magento_Backend
 "Flush Catalog Images Cache","Flush Catalog Images Cache",module,Magento_Backend
 "Pregenerated product images files","File gambar produk yang telah dipersiapkan sebelumnya",module,Magento_Backend
 "Flush JavaScript/CSS Cache","Flush JavaScript / CSS Cache",module,Magento_Backend
-"Themes JavaScript and CSS files combined to one file","Tema JavaScript dan file CSS digabungkan menjadi satu file",module,Magento_Backend
+"Themes JavaScript and CSS files combined to one file","Tema JavaScript dan berkas CSS digabungkan ke dalam satu berkas",module,Magento_Backend
 "Flush Static Files Cache","Flush Static Files Cache",module,Magento_Backend
 "Preprocessed view files and static files","File tampilan dan file statis yang telah diproses",module,Magento_Backend
 Catalog,Katalog,module,Magento_Backend
@@ -718,7 +718,7 @@ Actions,Tindakan,module,Magento_Backend
 "Select Visible","Pilih yang terlihat",module,Magento_Backend
 "Unselect Visible","Batalkan pilihan yang terlihat",module,Magento_Backend
 "Changes have been made to this section that have not been saved.","Perubahan telah dilakukan pada bagian ini yang belum disimpan.",module,Magento_Backend
-"This tab contains invalid data. Please resolve this before saving.","Tab ini berisi data yang tidak valid. Tolong selesaikan ini sebelum menabung.",module,Magento_Backend
+"This tab contains invalid data. Please resolve this before saving.","Tab ini berisi data yang tidak sah. Silakan menyelesaikan ini sebelum menyimpan.",module,Magento_Backend
 "The information in this tab has been changed.","Informasi dalam tab ini telah diubah.",module,Magento_Backend
 Loading...,Pemuatan...,module,Magento_Backend
 "We could not detect a size.","Kami tidak bisa mendeteksi ukurannya.",module,Magento_Backend
@@ -757,9 +757,9 @@ Advanced,Maju,module,Magento_Backend
 "Customer Support","Dukungan Pelanggan",module,Magento_Backend
 Developer,Pengembang,module,Magento_Backend
 Debug,Debug,module,Magento_Backend
-"Enabled Template Path Hints for Storefront","Diaktifkan Template Path Petunjuk untuk etalase",module,Magento_Backend
-"Enabled Template Path Hints for Admin","Diaktifkan Template Path Petunjuk untuk Admin",module,Magento_Backend
-"Add Block Names to Hints","Tambahkan Block Names to Hints",module,Magento_Backend
+"Enabled Template Path Hints for Storefront","Mengaktifkan Template Petunjuk Jalan untuk Etalase",module,Magento_Backend
+"Enabled Template Path Hints for Admin","Diaktifkan Template Petunjuk Jalan untuk Admin",module,Magento_Backend
+"Add Block Names to Hints","Untuk Petunjuk Tambahkan Blok Nama",module,Magento_Backend
 "Template Settings","Pengaturan Template",module,Magento_Backend
 "Allow Symlinks","Allow Symlinks",module,Magento_Backend
 "Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","Peringatan! Mengaktifkan fitur ini tidak disarankan di lingkungan produksi karena merupakan potensi risiko keamanan.",module,Magento_Backend
@@ -812,7 +812,7 @@ Host,Host,module,Magento_Backend
 Admin,Admin,module,Magento_Backend
 "Admin User Emails","Email Pengguna Admin",module,Magento_Backend
 "Forgot Password Email Template","Lupa Kata Sandi Template Email",module,Magento_Backend
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Template email dipilih berdasarkan fallback tema saat opsi ""Default"" dipilih.",module,Magento_Backend
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Email template yang dipilih berdasarkan tema mundur ketika ""Standar"" pilihan yang dipilih.",module,Magento_Backend
 "Forgot and Reset Email Sender","Lupa dan Setel ulang Email Sender",module,Magento_Backend
 "Startup Page","Memulai halaman",module,Magento_Backend
 "Admin Base URL","URL Dasar Admin",module,Magento_Backend
@@ -848,7 +848,7 @@ Web,Web,module,Magento_Backend
 "Secure Base URL","URL Base Aman",module,Magento_Backend
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Tentukan URL atau {{base_url}}, atau {{unsecure_base_url}} placeholder.",module,Magento_Backend
 "Secure Base Link URL","URL Tautan Basis Aman",module,Magento_Backend
-"Secure Base URL for Static View Files","Secure Base URL untuk Static View Files",module,Magento_Backend
+"Secure Base URL for Static View Files","Base URL Aman untuk Tampilan Berkas Statis",module,Magento_Backend
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.","Mungkin kosong atau mulai dengan placeholder {{secure_base_url}}, atau {{unsecure_base_url}}.",module,Magento_Backend
 "Secure Base URL for User Media Files","URL Basis Aman untuk File Media Pengguna",module,Magento_Backend
 "Use Secure URLs on Storefront","Gunakan URL Aman di etalase",module,Magento_Backend
@@ -872,7 +872,7 @@ Tags,Tag,module,Magento_Backend
 "<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">404Kesalahan</h1> <p> Halaman tidak ditemukan. </p>",module,Magento_Backend
 "Community Edition","Edisi Komunitas",module,Magento_Backend
 "Default Theme","Tema standar",module,Magento_Backend
-"If no value is specified, the system default is used. The system default may be modified by third party extensions.","Jika tidak ada nilai yang ditentukan, default sistem akan digunakan. Default sistem dapat dimodifikasi oleh ekstensi pihak ketiga.",module,Magento_Backend
+"If no value is specified, the system default is used. The system default may be modified by third party extensions.","Jika tidak ada nilai yang ditetapkan, sistem standar yang digunakan. Sistem standar dapat diubah oleh ekstensi pihak ketiga.",module,Magento_Backend
 "Applied Theme","Tema Terapan",module,Magento_Backend
 "Design Rule","Aturan Desain",module,Magento_Backend
 "User Agent Rules","Aturan Agen Pengguna",module,Magento_Backend
@@ -1416,7 +1416,7 @@ Forms,Bentuk,module,Magento_Captcha
 "Case Sensitive","Hal - hal sensitif",module,Magento_Captcha
 "Enable CAPTCHA on Storefront","Aktifkan CAPTCHA di etalase",module,Magento_Captcha
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA untuk formulir ""Buat pengguna"" dan ""Lupa kata sandi"" selalu diaktifkan jika dipilih.",module,Magento_Captcha
-Root,Root,module,Magento_Catalog
+Root,Sumber,module,Magento_Catalog
 Delete,Menghapus,module,Magento_Catalog
 Save,Simpan,module,Magento_Catalog
 "Use Config Settings","Gunakan Pengaturan Konfigurasi",module,Magento_Catalog
@@ -1458,7 +1458,7 @@ Cancel,Batal,module,Magento_Catalog
 "Not shared with other products.","Tidak dibagikan dengan produk lain.",module,Magento_Catalog
 "Input Validation for Store Owner","Validasi Masukan untuk Pemilik Toko",module,Magento_Catalog
 "Add to Column Options","Tambahkan ke Kolom Pilihan",module,Magento_Catalog
-"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Pilih ""Ya"" untuk menambahkan atribut ini ke daftar opsi kolom di kotak produk.",module,Magento_Catalog
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","Pilih ""Ya"" untuk menambahkan atribut ini ke daftar pilihan kolom di produk grid.",module,Magento_Catalog
 "Use in Filter Options","Gunakan Filter Pilihan",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Pilih ""Ya"" untuk menambahkan atribut ini ke daftar opsi filter di kotak produk.",module,Magento_Catalog
 "Store View","Tampilan toko",module,Magento_Catalog
@@ -1597,7 +1597,7 @@ None,"Tidak satupun",module,Magento_Catalog
 "Manage Catalog Categories","Kelola Kategori Katalog",module,Magento_Catalog
 "Manage Categories","Mengelola Kategori",module,Magento_Catalog
 "You deleted the category.","Anda menghapus kategori.",module,Magento_Catalog
-"Something went wrong while trying to delete the category.","Ada yang tidak beres saat mencoba menghapus kategori.",module,Magento_Catalog
+"Something went wrong while trying to delete the category.","Ada sesuatu yang salah ketika mencoba untuk menghapus kategori.",module,Magento_Catalog
 Categories,Kategori,module,Magento_Catalog
 "Category is not available for requested store.","Kategori tidak tersedia untuk toko yang diminta.",module,Magento_Catalog
 "There was a category move error. %1","Ada kesalahan pergerakan kategori. %1",module,Magento_Catalog
@@ -1606,7 +1606,7 @@ Categories,Kategori,module,Magento_Catalog
 "Attribute ""%1"" is required.","Atribut ""%1"" diperlukan.",module,Magento_Catalog
 "You saved the category.","Anda menyimpan kategori.",module,Magento_Catalog
 "Something went wrong while saving the category.","Ada yang tidak beres saat menyimpan kategori.",module,Magento_Catalog
-"Please select products for attributes update.","Silahkan pilih produk untuk update atribut.",module,Magento_Catalog
+"Please select products for attributes update.","Silahkan pilih produk untuk memperbaharui atribut.",module,Magento_Catalog
 "Please make sure to define SKU values for all processed products.","Pastikan untuk menentukan nilai SKU untuk semua produk olahan.",module,Magento_Catalog
 "A total of %1 record(s) were updated.","Sebanyak %1 rekaman(s) telah diperbarui.",module,Magento_Catalog
 "Something went wrong while updating the product(s) attributes.","Ada yang tidak beres saat memperbarui atribut produk(s).",module,Magento_Catalog
@@ -1622,7 +1622,7 @@ Catalog,Katalog,module,Magento_Catalog
 "Edit Product Attribute","Edit Atribut Produk",module,Magento_Catalog
 "An attribute set named '%1' already exists.","Kumpulan atribut bernama ' %1 ' sudah ada.",module,Magento_Catalog
 "Something went wrong while saving the attribute.","Ada yang tidak beres saat menyimpan atribut.",module,Magento_Catalog
-"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Kode atribut ""%1"" tidak valid. Tolong gunakan hanya huruf (a-z), angka (0-9) atau underscore (_) di bidang ini, karakter pertama harus berupa huruf.",module,Magento_Catalog
+"Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Kode Atribut ""%1"" adalah tidak sah. Silakan gunakan hanya huruf (a-z), angka (0-9) atau garis bawah(_) di bidang ini, karakter pertama harus huruf.",module,Magento_Catalog
 "We can't update the attribute.","Kami tidak dapat memperbarui atribut.",module,Magento_Catalog
 "You saved the product attribute.","Anda menyimpan atribut produk.",module,Magento_Catalog
 "An attribute with this code already exists.","Atribut dengan kode ini sudah ada.",module,Magento_Catalog
@@ -1635,8 +1635,8 @@ Catalog,Katalog,module,Magento_Catalog
 Products,Produk,module,Magento_Catalog
 "A group with the same name already exists.","Sebuah kelompok dengan nama yang sama sudah ada.",module,Magento_Catalog
 "Something went wrong while saving this group.","Ada yang salah saat menyimpan grup ini.",module,Magento_Catalog
-"A total of %1 record(s) have been deleted.","Sebanyak %1 record(s) telah dihapus.",module,Magento_Catalog
-"A total of %1 record(s) have been updated.","Sebanyak %1 record(s) telah diperbarui.",module,Magento_Catalog
+"A total of %1 record(s) have been deleted.","Sebanyak %1 rekaman(s) telah dihapus.",module,Magento_Catalog
+"A total of %1 record(s) have been updated.","Sebanyak %1 rekaman(s) telah diperbarui.",module,Magento_Catalog
 "Something went wrong while updating the product(s) status.","Ada yang tidak beres saat memperbarui status produk(s).",module,Magento_Catalog
 "Unable to save product","Tidak dapat menyimpan produk",module,Magento_Catalog
 "You saved the product.","Anda menyimpan produk.",module,Magento_Catalog
@@ -1657,8 +1657,8 @@ Products,Produk,module,Magento_Catalog
 "You removed product %1 from the comparison list.","Anda menghapus produk %1 dari daftar perbandingan.",module,Magento_Catalog
 "1 item","1 barang",module,Magento_Catalog
 "%1 items","%1 barang",module,Magento_Catalog
-"Are you sure you want to remove this item from your Compare Products list?","Yakin ingin menghapus item ini dari daftar Bandingkan Produk Anda?",module,Magento_Catalog
-"Are you sure you want to remove all items from your Compare Products list?","Yakin ingin menghapus semua barang dari daftar Bandingkan Produk Anda?",module,Magento_Catalog
+"Are you sure you want to remove this item from your Compare Products list?","Apakah anda yakin untuk menghapus item ini dari daftar Perbandingan Produk anda?",module,Magento_Catalog
+"Are you sure you want to remove all items from your Compare Products list?","Apakah anda yakin anda ingin menghapus semua item dari daftar Perbandingan Produk anda?",module,Magento_Catalog
 "Invalid attribute %1","Atribut %1 tidak valid",module,Magento_Catalog
 Grid,Kisi,module,Magento_Catalog
 List,Daftar,module,Magento_Catalog
@@ -1710,8 +1710,8 @@ Bottom/Left,"Kiri bawah",module,Magento_Catalog
 Bottom/Right,"Kanan / bawah",module,Magento_Catalog
 Center,Pusat,module,Magento_Catalog
 "%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 tidak meluas \ Magento \ Framework \ Model \ AbstractModel",module,Magento_Catalog
-"Something went wrong while saving the file(s).","Ada yang tidak beres saat menyimpan file (s).",module,Magento_Catalog
-"File can not be saved to the destination folder.","File tidak dapat disimpan ke folder tujuan.",module,Magento_Catalog
+"Something went wrong while saving the file(s).","Sesuatu yang tidak beres saat menyimpan berkas(s).",module,Magento_Catalog
+"File can not be saved to the destination folder.","Berkas tidak dapat disimpan ke folder tujuan.",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","Tipe pengindeks EAV tidak dikenal ""%1 "".",module,Magento_Catalog
 "We can't rebuild the index for an undefined product.","Kami tidak dapat membangun kembali indeks untuk produk yang tidak terdefinisi.",module,Magento_Catalog
 "Bad value was supplied.","Nilai buruk diberikan.",module,Magento_Catalog
@@ -1738,7 +1738,7 @@ Category,Kategori,module,Magento_Catalog
 "The value of attribute ""%1"" must be set","Nilai atribut ""%1"" harus ditetapkan",module,Magento_Catalog
 "SKU length should be %1 characters maximum.","Panjang SKU maksimal maksimal %1 karakter.",module,Magento_Catalog
 "Please enter a valid number in this field.","Masukkan nomor yang benar di bidang ini.",module,Magento_Catalog
-"We found a duplicate website, tier price, customer group and quantity.","Kami menemukan situs duplikat, harga tier, kelompok pelanggan dan kuantitas.",module,Magento_Catalog
+"We found a duplicate website, tier price, customer group and quantity.","Kami menemukan situs web duplikat, tingkat harga, kelompok pelanggan dan kuantitas.",module,Magento_Catalog
 "Percentage value must be a number between 0 and 100.","Nilai persentase harus berupa angka antara 0 dan 100.",module,Magento_Catalog
 "Invalid option id %1","Pilihan tidak sah id %1",module,Magento_Catalog
 "Can not create attribute set based on non product attribute set.","Tidak dapat membuat set atribut berdasarkan atribut produk non set.",module,Magento_Catalog
@@ -1781,9 +1781,9 @@ px.,px.,module,Magento_Catalog
 "The file '%1' is invalid. Please choose another one","File '%1' tidak valid Silahkan pilih yang lain",module,Magento_Catalog
 "File '%1' is not an image.","File ' %1 ' bukan gambar.",module,Magento_Catalog
 "Validation failed. Required options were not filled or the file was not uploaded.","Validasi gagal. Pilihan yang diperlukan tidak terisi atau file tidak diunggah.",module,Magento_Catalog
-"The file you uploaded is larger than %1 Megabytes allowed by server","File yang Anda upload lebih besar dari %1 Megabyte diizinkan oleh server",module,Magento_Catalog
+"The file you uploaded is larger than %1 Megabytes allowed by server","Berkas yang anda unggah lebih besar dari %1 Megabyte diperbolehkan oleh server",module,Magento_Catalog
 "Option required.","Pilihan yang dibutuhkan.",module,Magento_Catalog
-"The file is empty. Please choose another one","File itu kosong. Silahkan pilih yang lain",module,Magento_Catalog
+"The file is empty. Please choose another one","Berkas itu kosong. Silahkan pilih yang lain",module,Magento_Catalog
 "Some of the selected item options are not currently available.","Beberapa pilihan item yang dipilih saat ini tidak tersedia.",module,Magento_Catalog
 "The text is too long.","Teksnya terlalu panjang.",module,Magento_Catalog
 "Invalid attribute %fieldName = %fieldValue.","Atribut ""%fieldname = %fieldValue"" tidak valid.",module,Magento_Catalog
@@ -1791,20 +1791,20 @@ px.,px.,module,Magento_Catalog
 "Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Atribut tidak valid Cost = %c ost. ID Baris: SKU = %S KU, ID Toko: %s toreId.",module,Magento_Catalog
 "Could not save Prices.","Tidak dapat menyimpan harga.",module,Magento_Catalog
 "Could not delete Prices","Tidak dapat menghapus Harga",module,Magento_Catalog
-"Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Produk yang diminta tidak ada. Row ID: SKU = %S KU, ID Toko: %s toreId, Harga Dari: %p berasFrom, Harga Kepada: %p berasTo.",module,Magento_Catalog
-"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Toko yang diminta tidak ditemukan. Row ID: SKU = %S KU, ID Toko: %s toreId, Harga Dari: %p berasFrom, Harga Kepada: %p berasTo.",module,Magento_Catalog
-"Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Atribut tidak valid %la bel = %p riceTo. Row ID: SKU = %S KU, ID Toko: %s toreId, Harga Dari: %p berasFrom, Harga Kepada: %p berasTo.",module,Magento_Catalog
-"Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Atribut tidak valid Harga = %p beras. Row ID: SKU = %S KU, ID Toko: %s toreId, Harga Dari: %p berasFrom, Harga Kepada: %p berasTo.",module,Magento_Catalog
+"Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Produk yang diminta tidak ada. Baris ID: SKU = %SKU, Toko ID: %storeId, Harga Dari: %priceFrom, Harga Untuk: %priceTo.",module,Magento_Catalog
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Toko yang diminta tidak ditemukan. Baris ID: SKU = %SKU, Toko ID: %storeId, Harga Dari: %priceFrom, Harga Untuk: %priceTo.",module,Magento_Catalog
+"Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Atribut tidak sah %label = %priceTo. Baris ID: SKU = %SKU, Toko ID: %storeId, Harga Dari: %priceFrom, Harga Untuk: %priceTo.",module,Magento_Catalog
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Atribut tidak sah Harga = %price. Baris ID: SKU = %SKU, Toko ID: %storeId, Harga Dari: %priceFrom, Harga Untuk: %priceTo.",module,Magento_Catalog
 "Could not save Tier Prices","Tidak dapat menghemat Harga Tier",module,Magento_Catalog
 "Could not replace Tier Prices","Tidak dapat mengganti Harga Meningkat",module,Magento_Catalog
 "Could not delete Tier Prices","Tidak dapat menghapus Harga meningkat",module,Magento_Catalog
-"Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Atribut SKU tidak valid = %S KU. ID Baris: SKU = %S KU, ID Situs:% websiteId, Grup Pelanggan: %c ustomerGroup, Jumlah: %q ty.",module,Magento_Catalog
+"Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Atribut tidak sah SKU = %SKU. Baris ID: SKU = %SKU, Web ID: %websiteId, Kelompok Pelanggan: %customerGroup, Jumlah: %qty.",module,Magento_Catalog
 "Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Atribut tidak valid Harga = %p beras. ID Baris: SKU = %S KU, ID Situs:% websiteId, Grup Pelanggan: %c ustomerGroup, Jumlah: %q ty.",module,Magento_Catalog
 "Invalid attribute Price Type = %priceType. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Atribut Jenis Harga tidak valid = %p riceType. ID Baris: SKU = %S KU, ID Situs:% websiteId, Grup Pelanggan: %c ustomerGroup, Jumlah: %q ty.",module,Magento_Catalog
 "Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Atribut tidak valid Quantity = %q ty. ID Baris: SKU = %S KU, ID Situs:% websiteId, Grup Pelanggan: %c ustomerGroup, Jumlah: %q ty.",module,Magento_Catalog
 "Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Atribut situs web tidak valid =% websiteId. ID Baris: SKU = %S KU, ID Situs:% websiteId, Grup Pelanggan: %c ustomerGroup, Jumlah: %q ty.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Kami menemukan situs duplikat, harga meningkat, kelompok pelanggan dan jumlah barang: Customer Group = %c ustomerGroup, Website ID =% websiteId, Quantity = %q ty. ID Baris: SKU = %S KU, ID Situs:% websiteId, Grup Pelanggan: %c ustomerGroup, Jumlah: %q ty.",module,Magento_Catalog
-"No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Tidak ada entitas dengan Grup Pelanggan = %c ustomerGroup. ID Baris: SKU = %S KU, ID Situs:% websiteId, Grup Pelanggan: %c ustomerGroup, Jumlah: %q ty.",module,Magento_Catalog
+"No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Tidak ada entitas tersebut dengan Kelompok Pelanggan = %customerGroup. Baris ID: SKU = %SKU, Web ID: %websiteId, Kelompok Pelanggan: %customerGroup, Jumlah: %qty.",module,Magento_Catalog
 "This product doesn't have tier price","Produk ini tidak memiliki harga tier",module,Magento_Catalog
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Produk tidak mengelompokkan harga dengan data seperti itu: customerGroupId = ' %1', website = %2, qty = %3",module,Magento_Catalog
 "Invalid data provided for tier_price","Data tidak valid diberikan untuk tier_price",module,Magento_Catalog
