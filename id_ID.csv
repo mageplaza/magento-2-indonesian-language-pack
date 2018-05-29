@@ -8339,6 +8339,7 @@ Action,Aksi,module,Magento_Reports
 Report,Melaporkan,module,Magento_Reports
 Description,Deskripsi,module,Magento_Reports
 undefined,"tidak terdefinisi",module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review","Simpan Ulasan",module,Magento_Review
 "New Review","Ulasan Baru",module,Magento_Review
 "Review Details","Rincian ulasan",module,Magento_Review
