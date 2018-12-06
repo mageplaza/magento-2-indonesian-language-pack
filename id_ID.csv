@@ -1462,7 +1462,7 @@
 "Please enter the letters and numbers from the image","Please enter the letters and numbers from the image",module,Magento_Captcha
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong> Perhatian </strong>: Captcha peka terhadap huruf besar.",module,Magento_Captcha
 "Reload captcha","Muat ulang captcha",module,Magento_Captcha
-"Please type the letters and numbers below","Please type the letters and numbers below",module,Magento_Captcha
+"Please type the letters and numbers below","dan nomor",module,Magento_Captcha
 "Attention: Captcha is case sensitive.","Perhatian: Captcha bersifat case sensitive.",module,Magento_Captcha
 "CAPTCHA","CAPTCHA",module,Magento_Captcha
 "Enable CAPTCHA in Admin","Mengaktifkan CAPTCHA di Admin",module,Magento_Captcha
