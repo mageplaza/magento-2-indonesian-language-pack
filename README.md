@@ -89,8 +89,11 @@ Unzip the Indonesian language pack to Magento 2 root folder. In this guide, we e
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/id_id
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-indonesian-language-pack` to `id_id`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Indonesian pack manually, you have to access to your ser
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `id_ID.zip` into `app/i18n/mageplaza/id_ID/id_ID.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/id_id/id_ID.csv`
+
+See this screenshot
+
+![Indonesian pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
