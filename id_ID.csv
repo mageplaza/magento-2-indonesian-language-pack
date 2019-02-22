@@ -1,20 +1,20 @@
 All,Semua,module,Magento_AdminGws
 None,"Tidak ada",module,Magento_AdminGws
 "Allowed Scopes","Lingkup yang Diizinkan",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","Izin lain diperlukan untuk menghapus item ""%1"".",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","Anda memerlukan lebih banyak izin untuk menerapkan beberapa pembaruan aturan.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
-"More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Entitas ini perlu ditetapkan ke tampilan toko. Periksa penetapan entitas dan coba lagi.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Pesanan hanya dapat diselesaikan pada toko yang aktif. Periksa toko dan coba lagi.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Item ini perlu ditetapkan ke tampilan toko. Tetapkan dan coba lagi.",module,Magento_AdminGws
+"More permissions are needed to save this item.","Izin lain diperlukan untuk menyimpan item ini.",module,Magento_AdminGws
+"More permissions are needed to delete this item.","Izin lain diperlukan untuk menghapus item ini.",module,Magento_AdminGws
+"More permissions are needed to view this item.","Izin lain diperlukan untuk melihat item ini.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Setidaknya satu situs atau kelompok toko perlu dipilih. Pilih dan coba lagi.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","Izin lain diperlukan untuk mengatur semua cakupan peran.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","""%1"" ID situs salah. Periksa situs dan coba lagi.",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","Anda perlu lebih banyak izin untuk mengakses situs web ""%1"".",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","""%1"" ID toko salah. Periksa ID toko dan coba lagi.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","Izin lain diperlukan untuk menyimpan setelan ini.",module,Magento_AdminGws
 "Role Scopes","Peran cakupan",module,Magento_AdminGws
 Custom,"Sesuai permintaan",module,Magento_AdminGws
 "Read Details","Baca Rincian",module,Magento_AdminNotification
@@ -104,15 +104,15 @@ Configure,Konfigur,module,Magento_AdvancedCheckout
 "You must buy at least %1 of these per purchase.","Anda harus membeli setidaknya% 1 dari pembelian ini.",module,Magento_AdvancedCheckout
 "Specify the product's options.","Harap Tentukan pilihan produk.",module,Magento_AdvancedCheckout
 "Alert me when this item is available.","Peringatkan saya bila item ini tersedia.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Pelanggan ini tidak dapat ditemukan. Periksa pelanggan dan coba lagi.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","Pengelolaan keranjang belanja di nonaktifkan untuk pelanggan ini.",module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Toko ini tidak dapat ditemukan. Periksa toko dan coba lagi.",module,Magento_AdvancedCheckout
 Customers,Langganan,module,Magento_AdvancedCheckout
 "Shopping Cart","Keranjang belanja",module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Terjadi kesalahan. Untuk rincian, lihat log kesalahan.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Anda tidak memiliki akses untuk layanan ini.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Pesanan hanya dapat diselesaikan pada toko yang aktif. Periksa toko dan coba lagi.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","Item pesanan harus dimuat. Muat dan coba lagi.",module,Magento_AdvancedCheckout
 "The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
 "The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
 "The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
