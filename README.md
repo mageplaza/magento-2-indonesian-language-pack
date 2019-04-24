@@ -117,11 +117,13 @@ To download and install Indonesian pack manually, you have to access to your ser
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/id_id/id_ID.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/id_id/`
 
-See this screenshot
+See this screenshot:
 
 ![Indonesian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **id_id**
 
 #### Step 2: Flush cache
 
