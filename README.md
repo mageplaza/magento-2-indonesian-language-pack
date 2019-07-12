@@ -1,6 +1,6 @@
 ## Magento 2 Indonesian Language Pack
 
-**Magneto 2 Indonesian Language Pack** is one of the series of the translation tutorials Mageplaza offers free guides to thousands of store owners. In case you are planning to do a business at Indonesia, Magento 2 Indonesia Language Pack is really ideal solution. Only need to do as the following instructions, you can proceed to translate both the frontend and the backend of Magento 2 store, and then begin selling your porducts without any worry about the barrier of communication.
+**Magento 2 Indonesian Language Pack** is one of the series of the translation tutorials Mageplaza offers free guides to thousands of store owners. In case you are planning to do a business at Indonesia, Magento 2 Indonesia Language Pack is really ideal solution. Only need to do as the following instructions, you can proceed to translate both the frontend and the backend of Magento 2 store, and then begin selling your porducts without any worry about the barrier of communication.
 
 Read more [Magento 2 Indonesian Language Pack](https://www.mageplaza.com/magento-2-indonesian-language-pack.html)
 
