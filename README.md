@@ -4,7 +4,7 @@
 
 Read more [Magento 2 Indonesian Language Pack](https://www.mageplaza.com/magento-2-indonesian-language-pack.html)
 
-![Mageplaza Indonesian language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Indonesian language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
