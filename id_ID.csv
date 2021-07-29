@@ -15137,55 +15137,55 @@ formElements/*[nama(.) =.. /.. /@formElement]/pengaturan/caption                
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaksi telah ditolak",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"My Account","My Account",theme,frontend\Magento\blank
-"Now Shopping by","Sekarang Belanja oleh",theme,frontend\Magento\luma
-"Previous","Sebelumnya",theme,frontend\Magento\luma
-"Remove","Hapus",theme,frontend\Magento\luma
-"Remove This Item","Hapus item ini",theme,frontend\Magento\luma
-"Shop By","Toko oleh",theme,frontend\Magento\luma
-"Clear All","Bersihkan semua",theme,frontend\Magento\luma
-"Shopping Options","Pilihan Belanja",theme,frontend\Magento\luma
-"Welcome to %store_name","Selamat datang di %store_name",theme,frontend\Magento\luma
-"%name,","%nama,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Selamat datang di %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Untuk masuk ke situs kami, gunakan kepercayaan ini selama checkout atau pada halaman <a href=""%customer_url"">Akun saya</a>:",theme,frontend\Magento\luma
-"Email:","E-mail:",theme,frontend\Magento\luma
-"Password:","Kata sandi:",theme,frontend\Magento\luma
-"Password you set when creating account","Password yang Anda tetapkan saat membuat akun",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Lupa kata sandi akun anda? Klik <a href=""%reset_url"">di sini</a> untuk mengatur ulangnya.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","Saat masuk ke akun, Anda dapat:",theme,frontend\Magento\luma
-"Quick Checkout","Checkout Cepat",theme,frontend\Magento\luma
-"Proceed through checkout faster","Lanjutkan melalui checkout lebih cepat",theme,frontend\Magento\luma
-"Order Status","Status pesanan",theme,frontend\Magento\luma
-"Check the status of orders","Periksa status pesanan",theme,frontend\Magento\luma
-"Manage Addresses","Kelola Alamat",theme,frontend\Magento\luma
-"Store alternative addresses","Simpan alamat alternatif",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","Untuk pengiriman ke beberapa anggota keluarga dan teman",theme,frontend\Magento\luma
-"Order History","Sejarah pesanan",theme,frontend\Magento\luma
-"View past orders","Lihat pesanan terakhir",theme,frontend\Magento\luma
-"Footer","Bagian Kaki",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Memo kredit untuk pesanan %store_name Anda",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Terima kasih atas pesanan anda dari %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Anda dapat memeriksa status pesanan anda dengan <a href=""url_akun>masuk ke akun anda</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Jika ada pertanyaan tentang pesanan Anda, Anda dapat mengirim email kepada kami di <a href=""mailto: %s tore_email""> %store_email </a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Memo kredit anda #%creditmemo_id for Order #%order_id",theme,frontend\Magento\luma
-"Billing Info","Info Penagihan",theme,frontend\Magento\luma
-"Payment Method","Metode pembayaran",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Pembaruan atas memo kredit anda di %store_name",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Pesanan anda #%increment_id has been updated with a status of <strong>%status_pesanan</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Faktur untuk pesanan Anda di %store_name",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Faktur anda #%invoice_id for Order #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Pembaruan atas Faktur Anda di %store_name",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Konfirmasi pesanane anda di %store_name",theme,frontend\Magento\luma
-"%customer_name,","%nama_pelanggan",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Setelah paket anda dikirimkan kami akan mengirim nomor pelacakan kepada anda.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Pesanan Anda<span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Ditempatkan di <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Pembaruan atas pesanan anda di %store_name",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Pesanan Anda dari %store_name telah dikirimkan",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Konfirmasi pengiriman anda dibawah. Terima kasih lagi untuk bisnis anda.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Pengiriman anda #%shipment_id untuk pesanan #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Pembaruan atas pengiriman anda dari %store_name",theme,frontend\Magento\luma
+"My Account","My Account",theme,frontend/Magento/blank
+"Now Shopping by","Sekarang Belanja oleh",theme,frontend/Magento/luma
+"Previous","Sebelumnya",theme,frontend/Magento/luma
+"Remove","Hapus",theme,frontend/Magento/luma
+"Remove This Item","Hapus item ini",theme,frontend/Magento/luma
+"Shop By","Toko oleh",theme,frontend/Magento/luma
+"Clear All","Bersihkan semua",theme,frontend/Magento/luma
+"Shopping Options","Pilihan Belanja",theme,frontend/Magento/luma
+"Welcome to %store_name","Selamat datang di %store_name",theme,frontend/Magento/luma
+"%name,","%nama,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Selamat datang di %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Untuk masuk ke situs kami, gunakan kepercayaan ini selama checkout atau pada halaman <a href=""%customer_url"">Akun saya</a>:",theme,frontend/Magento/luma
+"Email:","E-mail:",theme,frontend/Magento/luma
+"Password:","Kata sandi:",theme,frontend/Magento/luma
+"Password you set when creating account","Password yang Anda tetapkan saat membuat akun",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Lupa kata sandi akun anda? Klik <a href=""%reset_url"">di sini</a> untuk mengatur ulangnya.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","Saat masuk ke akun, Anda dapat:",theme,frontend/Magento/luma
+"Quick Checkout","Checkout Cepat",theme,frontend/Magento/luma
+"Proceed through checkout faster","Lanjutkan melalui checkout lebih cepat",theme,frontend/Magento/luma
+"Order Status","Status pesanan",theme,frontend/Magento/luma
+"Check the status of orders","Periksa status pesanan",theme,frontend/Magento/luma
+"Manage Addresses","Kelola Alamat",theme,frontend/Magento/luma
+"Store alternative addresses","Simpan alamat alternatif",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","Untuk pengiriman ke beberapa anggota keluarga dan teman",theme,frontend/Magento/luma
+"Order History","Sejarah pesanan",theme,frontend/Magento/luma
+"View past orders","Lihat pesanan terakhir",theme,frontend/Magento/luma
+"Footer","Bagian Kaki",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Memo kredit untuk pesanan %store_name Anda",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Terima kasih atas pesanan anda dari %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Anda dapat memeriksa status pesanan anda dengan <a href=""url_akun>masuk ke akun anda</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Jika ada pertanyaan tentang pesanan Anda, Anda dapat mengirim email kepada kami di <a href=""mailto: %s tore_email""> %store_email </a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Memo kredit anda #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
+"Billing Info","Info Penagihan",theme,frontend/Magento/luma
+"Payment Method","Metode pembayaran",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Pembaruan atas memo kredit anda di %store_name",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Pesanan anda #%increment_id has been updated with a status of <strong>%status_pesanan</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Faktur untuk pesanan Anda di %store_name",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Faktur anda #%invoice_id for Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Pembaruan atas Faktur Anda di %store_name",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Konfirmasi pesanane anda di %store_name",theme,frontend/Magento/luma
+"%customer_name,","%nama_pelanggan",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Setelah paket anda dikirimkan kami akan mengirim nomor pelacakan kepada anda.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Pesanan Anda<span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Ditempatkan di <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Pembaruan atas pesanan anda di %store_name",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Pesanan Anda dari %store_name telah dikirimkan",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Konfirmasi pengiriman anda dibawah. Terima kasih lagi untuk bisnis anda.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Pengiriman anda #%shipment_id untuk pesanan #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Pembaruan atas pengiriman anda dari %store_name",theme,frontend/Magento/luma
 "Details","Details",lib,web
 "Warning: No message defined for %s","Warning: No message defined for %s",lib,web
 "Backup options","Pilihan cadangan",lib,web
